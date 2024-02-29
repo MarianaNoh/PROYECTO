@@ -1,0 +1,7 @@
+.nav-link:hover{
+    /*text-decoration-line: underline*/
+    border-bottom: 2px solid rgb(255, 172, 7);
+}
+.nav-link {
+    transition: all 0,2s;
+}
